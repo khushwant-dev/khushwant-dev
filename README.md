@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khushwant-dev
+- 👋 Hello floks, I’m @khushwant-dev
 - 👀 I’m interested in WEB DEVELOPMENT 
 - 🌱 I’m currently learning C/C++
 - 📫 Reach me on Instagram                                           - @_khushwant.singh 
